@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./assets/abu naeem Git Hub.png" alt="Naeemur Rahman - Frontend Developer" width="100%">
+</p>
+
+
 # Hi 👋, I'm <Naeemur Rahman>  
 ### 🔭 I build things with JavaScript, React, and Node.js
 
