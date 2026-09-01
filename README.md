@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/abu naeem Git Hub.png" alt="Naeemur Rahman - Frontend Developer" width="100%">
+  <img src="./banner.png" alt="Naeemur Rahman Banner" width="100%">
 </p>
 
 
